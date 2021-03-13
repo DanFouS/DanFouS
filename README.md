@@ -3,18 +3,12 @@
 [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/D.DanFouS/)](https://www.facebook.com/D.DanFouS/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MedA_Guesmi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MedA_Guesmi)
 
-## I'm a Full stack Javascript Developer !!
+## I'm a Full Stack Javascript Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with anyone who's interested in coding
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i love skydiving but i'm afraid of heights
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DanFouS Spotify Playing" width="350" />](https://open.spotify.com/user/qpirzn3peexs24my6xjg8815z)
-
-<iframe src="https://open.spotify.com/embed/track/5H92IwQV1tExrJPDXLyt9B" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Connect with me:
 
@@ -61,7 +55,6 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="DanFouS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanFouS&show_icons=true&hide_border=true&theme=radical" />
-
 
 </details>
 
