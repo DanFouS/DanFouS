@@ -1,10 +1,16 @@
 ### Hi there, I'm Med Amine Guesmi - aka [DanFouS][facebook] 👋
 
-[![Facebook](https://img.shields.io/facebook?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/D.DanFouS/)](https://www.facebook.com/D.DanFouS/)
+[![Facebook Add](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/D.DanFouS/)](https://www.facebook.com/D.DanFouS/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MedA_Guesmi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MedA_Guesmi)
 
+<br />
+<br />
+
 ---
+
+<br />
+<br />
 
 ## I'm a Full Stack Javascript Developer !!
 
@@ -13,7 +19,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i love skydiving but i'm afraid of heights
 
+<br />
+<br />
+
 ---
+
+<br />
+<br />
 
 ### Connect with me:
 
@@ -26,8 +38,12 @@
 [<img align="left" alt="DanFouS | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+<br />
 
 ---
+
+<br />
+<br />
 
 ### Languages and Tools:
 
@@ -79,6 +95,9 @@
 <br />
 
 ---
+
+<br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
