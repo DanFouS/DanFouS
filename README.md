@@ -12,7 +12,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DanFouS Spotify Playing" width="350" />](https://open.spotify.com/user/qpirzn3peexs24my6xjg8815z)
+
+<iframe src="https://open.spotify.com/embed/track/5H92IwQV1tExrJPDXLyt9B" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Connect with me:
 
@@ -58,7 +60,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="DanFouS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanFouS&show_icons=true&hide_border=true" />
+  <img align="left" alt="DanFouS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanFouS&show_icons=true&hide_border=true&theme=radical" />
+
 
 </details>
 
