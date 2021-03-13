@@ -18,6 +18,8 @@
 
 [<img align="left" alt="DanFouS | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="DanFouS | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 <br />
 
 ### Languages and Tools:
@@ -61,3 +63,4 @@
 [twitter]: https://twitter.com/MedA_Guesmi
 [instagram]: https://www.instagram.com/lxrddanfous/
 [linkedin]: linkedin.com/in/med-a-guesmi-23a31b202/
+[facebook]: https://www.facebook.com/D.DanFouS/
