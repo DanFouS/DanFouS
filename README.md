@@ -1,6 +1,6 @@
 ### Hi there, I'm Med Amine Guesmi - aka [DanFouS][facebook] 👋
 
-[![facebook](https://img.shields.io/Facebook?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/D.DanFouS/)](https://www.facebook.com/D.DanFouS/)
+[![Facebook](https://img.shields.io/facebook?label=Facebook&style=for-the-badge&url=https%3A%2F%2FFacebook.com/D.DanFouS/)](https://www.facebook.com/D.DanFouS/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MedA_Guesmi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MedA_Guesmi)
 
 ---
