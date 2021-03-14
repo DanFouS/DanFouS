@@ -1,8 +1,8 @@
 ### Hi there, I'm Med Amine Guesmi - aka [DanFouS][facebook] 👋
 
-[![Facebook](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/D.DanFouS/)](https://www.facebook.com/D.DanFouS/)
+[![Facebook](https://img.shields.io/facebook.com/D.DanFouS/ &style=for-the-badge)](https://www.facebook.com/D.DanFouS/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MedA_Guesmi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MedA_Guesmi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MedA_Guesmi?color=1DA1F2&logo=twitter &style=for-the-badge)](https://twitter.com/MedA_Guesmi)
 
 <br />
 
@@ -69,13 +69,6 @@
 
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/express/express.png" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="DanFouS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanFouS&show_icons=true&hide_border=true&theme=radical" />
-
-</details>
-
 <br />
 <br />
 
@@ -83,6 +76,13 @@
 
 <br />
 <br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="DanFouS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanFouS&show_icons=true&hide_border=true&theme=radical" />
+
+</details>
 
 [twitter]: https://twitter.com/MedA_Guesmi
 [instagram]: https://www.instagram.com/lxrddanfous/
