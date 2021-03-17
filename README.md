@@ -96,6 +96,7 @@
   <img align="left" alt="DanFouS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanFouS&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
+
 [website]: https://medamineguesmi.netlify.app
 [youtube]: https://www.youtube.com/channel/UCLb8Cw70riCocultNQjpuKA
 [twitter]: https://twitter.com/MedA_Guesmi
