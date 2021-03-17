@@ -101,5 +101,5 @@
 [youtube]: https://www.youtube.com/channel/UCLb8Cw70riCocultNQjpuKA
 [twitter]: https://twitter.com/MedA_Guesmi
 [instagram]: https://www.instagram.com/lxrddanfous/
-[linkedin]: www.linkedin.com/in/MedAmineGuesmi
+[linkedin]: https://www.linkedin.com/in/MedAmineGuesmi
 [facebook]: https://www.facebook.com/D.DanFouS/
