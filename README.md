@@ -1,6 +1,6 @@
-### Hi there, I'm Med Amine Guesmi - aka [DanFouS][facebook] 👋
+### Hi there, I'm Med Amine Guesmi - aka [DanFouS][website] 👋
 
-[![Facebook](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/D.DanFouS/)](https://www.facebook.com/D.DanFouS/)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fmedamineguesmi.netlify.app)](https://medamineguesmi.netlify.app)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MedA_Guesmi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MedA_Guesmi)
 
@@ -96,7 +96,7 @@
   <img align="left" alt="DanFouS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanFouS&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
-
+[website]: https://medamineguesmi.netlify.app
 [youtube]: https://www.youtube.com/channel/UCLb8Cw70riCocultNQjpuKA
 [twitter]: https://twitter.com/MedA_Guesmi
 [instagram]: https://www.instagram.com/lxrddanfous/
